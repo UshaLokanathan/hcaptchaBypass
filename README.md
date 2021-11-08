@@ -8,7 +8,7 @@
 <pre><code>git clone https://github.com/UshaLokanathan/hcaptchaBypass.git</code></pre>
 <pre><code>cd hcaptchaBypass</code></pre>
 <pre><code>npm install</code></pre>
-<pre><code>node .\app.js</code></pre>
+<pre><code>node .\app-1.js</code></pre>
 <h3>Captcha Code</h3>
 <pre><code>
 import puppeteer from "puppeteer-extra";
